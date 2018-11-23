@@ -1,2 +1,3 @@
 # Projeto-3-CD
-Projeto 3 de cd 
+Projeto Final de Ciência dos Dados
+Analise de fatores influentes na determinação de uma avaliação de uma strain e sua relevância na fabricação de novoa produtos
